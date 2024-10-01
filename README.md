@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Ondřej Klubal!
 
-<!--
-**ondraklubal/ondraklubal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data enthusiast with a passion for turning raw information into actionable insights. Here’s a bit about my journey and current work:
 
-Here are some ideas to get you started:
+## 💻 Tech Stack:
+- R, Python, SQL, Excel, SPSS, Power BI
+  
+## 🎓 Education
+- **Faculty of Informatics and Statistics**, University of Economics, Prague  
+  _(Master's degree in Statistics and Demography)_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Experience
+
+### 📊 Research Analyst  
+**Research Agency**  
+- Worked extensively with SPSS to process survey data  
+- Delivered client reports in PowerPoint and created interactive applications using **Shiny** (R)
+
+### 🎯 CRM Data Analyst  
+**Sazka (Czech Republic’s largest lottery company)**  
+- Handling **CRM analysis** based on internal client needs  
+- Daily work involves **Excel**, **SQL**, **PowerPoint**, and **Power BI**  
+- Data modeling using **Python** and **R**
+
+---
+
+Feel free to check out my repositories and projects. Let's connect and talk data!
